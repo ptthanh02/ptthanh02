@@ -32,7 +32,7 @@ Feel free to reach out and connect with me:
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=vscode,md,github,figma,git,docker" /><br>
-    <img src="https://skillicons.dev/icons?i=python,tensorflow,java,c,cpp,mysql,flask,html,bootstrap,css" /><br>
+    <img src="https://skillicons.dev/icons?i=python,tensorflow,java,c,cpp,mysql,flask,django,html,bootstrap,css" /><br>
 </div>
 
 <br/>
