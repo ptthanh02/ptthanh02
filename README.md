@@ -4,6 +4,7 @@
 </h1>
 
 <h3 align="center">I'm currently a Data Science student at IUH</h3>
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
 ## Skills and Expertise
 - 🔭 **Data Analysis:** Skilled in data analysis using Python, including libraries like Pandas and NumPy.
