@@ -13,10 +13,9 @@
 - 🤖 **Machine Learning:** Passionate about machine learning techniques and model development.
 - 📊 **Data Visualization:** Proficient in creating insightful data visualizations with Matplotlib and Seaborn.
 - 📚 **English Reading Comprehension:** Able to read and understand English effectively.
-- 👨‍💼 **English Speaking:** Capable of fluent conversation in English.
 
 ## Projects
-- 🔍 **[VN News Crawler]([https://github.com/username/repo](https://github.com/ptthanh02/VN_NewsCrawler))**: VietNamNet news crawler that extracts article titles and content for various categories.
+- 🔍 **[VN News Crawler]([https://github.com/ptthanh02/VN_NewsCrawler])**: VietNamNet news crawler that extracts article titles and content for various categories.
 
 ## Contact Information
 
