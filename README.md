@@ -1,5 +1,5 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ptthanh02.ptthanh02" />
-
+<br>
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&pause=1000&random=false&width=435&lines=Hi+there!+%F0%9F%91%8B;I'm+Tien+Thanh!;Welcome+to+my+profile!" />
 </h1>
