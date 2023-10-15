@@ -16,9 +16,20 @@
 ## Projects
 - 🔍 **[VN News Crawler](https://github.com/ptthanh02/VN_NewsCrawler)**: VietNamNet news crawler that extracts article titles and content for various categories.
 
-<br>
+<br/>
+<hr/>
 
-<h2 align="center">Contact Information</h2>
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=vscode,md,github,figma,git,docker" /><br>
+    <img src="https://skillicons.dev/icons?i=python,tensorflow,java,c,cpp,mysql,flask,django,html,bootstrap,css" /><br>
+</div>
+
+<br/>
+<hr/>
+
+<h2 align="center">📫  Contact Information  📫</h2>
 
 <div align="center"> 
   <a href="mailto:tien.thanh.info22@gmail.com">
@@ -27,13 +38,6 @@
   <a href="https://www.linkedin.com/in/ph%E1%BA%A1m-ti%E1%BA%BFn-th%C3%A0nh-87aa55287/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-</div>
-
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=vscode,md,github,figma,git,docker" /><br>
-    <img src="https://skillicons.dev/icons?i=python,tensorflow,java,c,cpp,mysql,flask,django,html,bootstrap,css" /><br>
 </div>
 
 <br/>
@@ -46,7 +50,7 @@
   
   <br/><br/><br/>
 
-
+<hr/>
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
