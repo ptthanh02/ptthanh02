@@ -31,8 +31,8 @@ Feel free to reach out and connect with me:
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=vscode,github,figma,git" />
-    <img src="https://skillicons.dev/icons?i=python,java,c,mysql,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=vscode,md,github,figma,git,docker" /><br>
+    <img src="https://skillicons.dev/icons?i=python,tensorflow,java,c,cpp,mysql,flask,html,bootstrap,css" /><br>
 </div>
 
 <br/>
