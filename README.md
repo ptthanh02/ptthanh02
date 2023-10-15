@@ -18,7 +18,7 @@
 
 <br>
 
-## Contact Information
+<h2 align="center">Contact Information</h2>
 
 <div align="center"> 
   <a href="mailto:tien.thanh.info22@gmail.com">
