@@ -14,7 +14,7 @@
 - 👨‍💼 **English Speaking:** Capable of fluent conversation in English.
 
 ## Projects
-- 🔍 ** [VN News Crawler]([https://github.com/username/repo](https://github.com/ptthanh02/VN_NewsCrawler)) **: VietNamNet news crawler that extracts article titles and content for various categories.
+- 🔍 **[VN News Crawler]([https://github.com/username/repo](https://github.com/ptthanh02/VN_NewsCrawler))**: VietNamNet news crawler that extracts article titles and content for various categories.
 
 ## Contact Information
 Feel free to reach out and connect with me:
