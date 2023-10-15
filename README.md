@@ -17,7 +17,6 @@
 - 🔍 **[VN News Crawler]([https://github.com/username/repo](https://github.com/ptthanh02/VN_NewsCrawler))**: VietNamNet news crawler that extracts article titles and content for various categories.
 
 ## Contact Information
-Feel free to reach out and connect with me:
 
 <div align="center"> 
   <a href="mailto:tien.thanh.info22@gmail.com">
@@ -36,4 +35,14 @@ Feel free to reach out and connect with me:
 </div>
 
 <br/>
+<hr/>
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/ptthanh02/ptthanh02/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
 <hr/>
