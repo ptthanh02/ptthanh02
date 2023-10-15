@@ -1,10 +1,12 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ptthanh02.ptthanh02" />
+<br>
+<img align="right" src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="80" height="80" />
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+there!+%F0%9F%91%8B;I'm+Tien+Thanh!;Welcome+to+my+profile!" />
 </h1>
 
+
 <h3 align="center">I'm currently a Data Science student at IUH</h3>
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
 ## Skills and Expertise
 - 🔭 **Data Analysis:** Skilled in data analysis using Python, including libraries like Pandas and NumPy.
