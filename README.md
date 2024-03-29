@@ -5,7 +5,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+there!+%F0%9F%91%8B;I'm+Tien+Thanh!;Welcome+to+my+profile!" />
 </h1>
 
-<h3 align="center">I'm currently studying Data Science at IUH</h3> 
+<h3 align="center">Currently studying Data Science at IUH</h3> 
 
 ## Skills and Expertise
 - 🔭 **Data Analysis:** Skilled in data analysis using Python, including libraries like Pandas and NumPy.
@@ -66,8 +66,4 @@
 <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️:)">
 </h3>
-
-<div align="center">
-    <img src="https://media2.giphy.com/media/CrFLL3CnRpw5ddlBMm/giphy.gif"/>
-</div>
 <br>
