@@ -14,7 +14,7 @@
 
 ## Projects
 - 🔍 **[VN News Crawler](https://github.com/ptthanh02/VN_NewsCrawler)**: VietNamNet news crawler that extracts article titles and content for various categories.
-- 🎫 **[Online Movie Ticket Booking Website](https://github.com/ptthanh02/Simple_Movie_Booking_Django)**: Ticket Booking Website with Django framework
+- 🎫 **[Online Movie Ticket Booking Website](https://github.com/ptthanh02/Simple_Movie_Booking_Django)**: Ticket Booking Website with Django framework.
 
 <br/>
 <hr/>
