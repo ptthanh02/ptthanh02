@@ -1,20 +1,9 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ptthanh02.ptthanh02" />
 <br>
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+there!+%F0%9F%91%8B;I'm+Tien+Thanh!;Welcome+to+my+profile!" />
-</h1>
-
-<h3 align="center">Currently studying Data Science at IUH</h3> 
-
-## Skills and Expertise
-- 🔭 **Data Analysis:** Skilled in data analysis using Python, including libraries like Pandas and NumPy.
-- 🤖 **Machine Learning:** Passionate about machine learning techniques and model development.
-- 📊 **Data Visualization:** Proficient in creating insightful data visualizations with Matplotlib and Seaborn.
-- 📚 **English Reading Comprehension:** Able to read and understand English effectively.
-
 ## Projects
 - 🔍 **[VN News Crawler](https://github.com/ptthanh02/VN_NewsCrawler)**: VietNamNet news crawler that extracts article titles and content for various categories.
+- 🎫 **[Online Movie Ticket Booking Website](https://github.com/ptthanh02/Simple_Movie_Booking_Django)**: Ticket Booking Website with Django framework
 
 <br/>
 <hr/>
