@@ -3,18 +3,8 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Welcome+to+my+github+profile!+%F0%9F%91%8B" />
 </h1>
-
+<hr/>
 <h3 align="center">I'm currently studying Data Science at IUH</h3> 
-
-## Skills and Expertise
-- 🔭 **Data Analysis:** Skilled in data analysis using Python, including libraries like Pandas and NumPy.
-- 🤖 **Machine Learning:** Passionate about machine learning techniques and model development.
-- 📊 **Data Visualization:** Proficient in creating insightful data visualizations with Matplotlib and Seaborn.
-- 📚 **English Reading Comprehension:** Able to read and understand English effectively.
-
-## Projects
-- 🔍 **[VN News Crawler](https://github.com/ptthanh02/VN_NewsCrawler)**: VietNamNet news crawler that extracts article titles and content for various categories.
-- 🎫 **[Online Movie Ticket Booking Website](https://github.com/ptthanh02/Simple_Movie_Booking_Django)**: Ticket Booking Website with Django framework.
 
 <br/>
 <hr/>
