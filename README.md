@@ -76,14 +76,6 @@ me.say_hi()
   
 </div>
 
-## ⚡ Recent Activity
-
-<!--START_SECTION:activity-->
-1. 🔭 Working on [Smart-Spawner-Plugin](https://github.com/ptthanh02/Smart-Spawner-Plugin)
-2. 🌱 Learning Advanced Statistical Methods and Big Data Processing
-3. 👯 Looking to collaborate on Data Science and Big Data projects
-<!--END_SECTION:activity-->
-
 ## 🐍 Contribution Graph
 
 <div align="center">
