@@ -50,7 +50,7 @@
 
 ### 🌐 **Frontend & Web Development**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,nextjs,vue,bootstrap,materialui,figma" alt="Frontend Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,figma" alt="Frontend Stack" />
 </p>
 
 ### 📊 **Data Science & Analytics**
@@ -66,7 +66,7 @@
 
 ### 🎮 **Game Development & Tools**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,kotlin,git,github,vscode,idea,eclipse" alt="Development Tools" />
+  <img src="https://skillicons.dev/icons?i=java,github,vscode,idea" alt="Development Tools" />
 </p>
 
 </div>
