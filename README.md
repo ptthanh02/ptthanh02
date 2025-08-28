@@ -102,26 +102,5 @@
 <br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=40&section=header&text=🌟%20Community%20&%20Connect&fontSize=25&fontColor=ffffff" width="100%" />
-</div>
-
-<div align="center">
-
-### 🎮 **Other Platforms**
-[![Modrinth](https://img.shields.io/badge/Modrinth-00AF5C?style=for-the-badge&logo=modrinth&logoColor=white)](https://modrinth.com/user/Nighterr)
-[![SpigotMC](https://img.shields.io/badge/SpigotMC-ED8106?style=for-the-badge&logo=spigotmc&logoColor=white)](https://www.spigotmc.org/members/ptthanh02.2098145/)
-
-### 📱 **Let's Connect**
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tien.thanh.info22@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/phạm-tiến-thành-87aa55287/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/ptthanh02)
-
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=2000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=💡+Always+exploring+new+technologies;🚀+Passionate+about+scalable+solutions;🤝+Let's+collaborate+and+innovate+together!;✨+Thanks+for+visiting+my+digital+space!" alt="Footer Typing SVG" />
-</div>
-
-<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&section=footer" width="100%" />
 </div>
