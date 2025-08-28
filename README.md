@@ -3,9 +3,14 @@
 </div>
 
 <div align="center">
-  <img src="https://custom-icon-badges.demolab.com/github/followers/ptthanh02?color=58A6FF&labelColor=1c2128&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/>
-  <img src="https://custom-icon-badges.demolab.com/github/stars/ptthanh02?color=ffd33d&labelColor=1c2128&style=for-the-badge&logo=star&label=Stars&logoColor=white"/>
-  <img src="https://komarev.com/ghpvc/?username=ptthanh02&color=58A6FF&style=for-the-badge&label=Profile+Views"/>
+  
+  <!-- GitHub Stats Badges -->
+  <img src="https://custom-icon-badges.demolab.com/github/followers/ptthanh02?color=58A6FF&labelColor=1c2128&style=for-the-badge&logo=people&label=Followers&logoColor=white" alt="GitHub Followers"/>
+  <img src="https://custom-icon-badges.demolab.com/github/stars/ptthanh02?color=58A6FF&labelColor=1c2128&style=for-the-badge&logo=star&label=Stars&logoColor=white" alt="GitHub Stars"/>
+  <a href="https://modrinth.com/user/Nighterr">
+    <img src="https://custom-icon-badges.demolab.com/badge/Modrinth-58A6FF?style=for-the-badge&logo=package&logoColor=white&labelColor=1c2128" alt="Modrinth Profile"/>
+  </a>
+  
 </div>
 
 <br>
@@ -48,14 +53,12 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ### **Frontend & Web Development**
