@@ -17,29 +17,8 @@
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30"> **About Me**
 
-<table>
-<tr>
-<td width="50%">
-
-### 💼 **Professional Journey**
-🏢 **ERP Data Analyst** at **LE PHUC MFG CO., LTD**
-- Business Intelligence & Advanced Analytics
-- Strategic Decision Support
-- Performance Optimization
-
-🎓 **Education**: Industrial University of Ho Chi Minh City (**IUH**) - Data Science Graduate
-
-</td>
-<td width="50%">
-
-### 🎯 **Side Projects**
-🎮 **Minecraft Plugin Developer**
-- Building engaging gaming experiences
-- Contributing to the open-source community
-
-</td>
-</tr>
-</table>
+- Currently working as an ERP Data Analyst at [LE PHUC MFG.](https://lptpmfg.com/vn/), specializing in business intelligence and advanced analytics.
+- Building open-source projects under [NighterDevelopment](https://github.com/NighterDevelopment) in my free time, mainly focusing on Minecraft plugins.
 
 <br>
 
