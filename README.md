@@ -2,6 +2,8 @@
 - Currently working at [LE PHUC MFG](https://lptpmfg.com/vn/).
 - Building open-source Minecraft plugins at [NighterDevelopment](https://github.com/NighterDevelopment) in my free time.
 
+<br>
+
 ## **Tech I Work With**
 
 <table align="center">
