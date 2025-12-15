@@ -1,24 +1,7 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:667eea,100:764ba2&text=Welcome%20To%20My%20Profile!&fontSize=60&fontAlign=50&fontAlignY=40&desc=@ptthanh02&descAlign=50&descAlignY=65&fontColor=ffffff&animation=fadeIn" width="100%" />
-</div>
-
-<div align="center">
-  
-  <!-- GitHub Stats Badges -->
-  <img src="https://custom-icon-badges.demolab.com/github/followers/ptthanh02?color=58A6FF&labelColor=1c2128&style=for-the-badge&logo=people&label=Followers&logoColor=white" alt="GitHub Followers"/>
-  <img src="https://custom-icon-badges.demolab.com/github/stars/ptthanh02?color=58A6FF&labelColor=1c2128&style=for-the-badge&logo=star&label=Stars&logoColor=white" alt="GitHub Stars"/>
-  <a href="https://modrinth.com/user/Nighterr">
-    <img src="https://custom-icon-badges.demolab.com/badge/Modrinth-58A6FF?style=for-the-badge&logo=package&logoColor=white&labelColor=1c2128" alt="Modrinth Profile"/>
-  </a>
-  
-</div>
-
-<br>
-
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30"> **About Me**
 
-- Currently working as an ERP Data Analyst at [LE PHUC MFG.](https://lptpmfg.com/vn/), specializing in business intelligence and advanced analytics.
-- Building open-source projects under [NighterDevelopment](https://github.com/NighterDevelopment) in my free time, mainly focusing on Minecraft plugins.
+- Currently working at [LE PHUC MFG](https://lptpmfg.com/vn/).
+- Building open-source Minecraft plugins at [NighterDevelopment](https://github.com/NighterDevelopment) in my free time.
 
 <br>
 
@@ -77,27 +60,6 @@
 
 <br>
 
-## 📊 **GitHub Analytics**
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ptthanh02&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ptthanh02&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9"/>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ptthanh02&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" />
-</div>
-
-<br>
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/ptthanh02/ptthanh02/output/github-contribution-grid-snake-dark.svg" alt="snake"/>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:667eea,100:764ba2&section=footer" width="100%" />
 </div>
