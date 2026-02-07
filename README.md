@@ -2,7 +2,7 @@
 - Currently working at [LE PHUC MFG](https://lptpmfg.com/vn/).
 - Building open-source Minecraft plugins at [NighterDevelopment](https://github.com/NighterDevelopment) in my free time.
 
-<br>
+![cat](https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true)
 
 ## **Tech I Work With**
 
@@ -27,7 +27,7 @@
 <img src="https://skillicons.dev/icons?i=css" width="48" height="48"/>
 <img src="https://skillicons.dev/icons?i=javascript" width="48" height="48"/>
 <img src="https://skillicons.dev/icons?i=react" width="48" height="48"/>
-<img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=typescript" width="48" height="48"/>
 </p>
 
 </td>
