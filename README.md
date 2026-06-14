@@ -1,5 +1,5 @@
 ## **About Me**
-- Building open-source Minecraft plugins at [NighterDevelopment](https://github.com/NighterDevelopment) in my free time.
+- Building open-source Minecraft plugins at [OpenVdra](https://github.com/OpenVdra) in my free time.
 
 ![cat](https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true)
 
