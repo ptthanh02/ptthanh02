@@ -1,7 +1,6 @@
 ## **About Me**
 
 - Building open-source Minecraft plugins and mods in my free time
-- Always exploring new tools across the JVM and web ecosystems
 - Feel free to check out my repositories, contributions and feedback are welcome
 ![cat](https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true)
 
